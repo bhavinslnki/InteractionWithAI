@@ -1,0 +1,5 @@
+SpeechRecognition==3.8.1
+gTTS==2.2.3
+requests==2.31.0
+pyaudio==0.2.11
+python-dotenv==1.0.0
